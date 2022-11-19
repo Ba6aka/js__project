@@ -17,7 +17,6 @@
 // let incr = 11,
 //     dcr = 11;
 
-
 // console.log(++incr)
 // console.log(--dcr);
 
@@ -28,11 +27,14 @@
 
 // console.log(op1 || op2)
 
-const obgOne = {
-    camry: 11,
-    nissan: 12
-}
+// const obgOne = {
+//     camry: 11,
+//     nissan: 12
+// }
 
-const car = 'lexus';
-obgOne[car] = 13.5 + obgOne['camry'];
-console.log(obgOne)
+// const car = 'lexus';
+// obgOne[car] = 13.5 + obgOne['camry'];
+// console.log(obgOne)
+
+// const game = 'stalker';
+// console.log(`https//www.${game}.com/3`);
